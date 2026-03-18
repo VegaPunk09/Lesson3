@@ -2,7 +2,7 @@
 
 int main()
 {
-    bool a, b;
+    bool a{}, b{};
 
     std::cout << "Operator: ||" << std::endl;
 
